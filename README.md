@@ -25,6 +25,8 @@ Jester's Inn room:
    
    ``patchDir=.\;.\patches``
    
+Note: Old savegames saved at Squidstone Arc or the jester's room may no longer work after this patch. If you want to keep them, load them before applying the patch, move to another area and save them again.
+   
  ## How to uninstall
 
 To uninstall, restore your old PATCHES folder to your QFG4 directory.
