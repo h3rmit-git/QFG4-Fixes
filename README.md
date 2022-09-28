@@ -19,7 +19,7 @@ Jester's Inn room:
 
 3. Extract the contents of the zip to the PATCHES folder in your QFG4 directory. Always overwrite when prompted.
 
-4. Open your RESOURCES.CFG configuration file in your QFG4 folder with Notepad and ensure that the patches folder is included in the ``patchDir`` variable. The patchDir variable is a semicolor-separated list of folders, either absolute or relative.
+4. Open your RESOURCE.CFG configuration file in your QFG4 folder with Notepad and ensure that the patches folder is included in the ``patchDir`` variable. The patchDir variable is a semicolor-separated list of folders, either absolute or relative.
    
    E.g. 
    
